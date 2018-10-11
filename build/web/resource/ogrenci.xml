@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<student>
+<kayitNo>1</kayitNo>
+<ogrNo>1110128058</ogrNo>
+<isim>Mehmet AKYOKUS</isim>
+<bIsim>Bilgisayar Mühendisi</bIsim>
+<notOrt>80.3</notOrt>
+</student>
+<student>s
+<kayitNo>2</kayitNo>
+<ogrNo>1110745758</ogrNo>
+<isim>Eren Çolak</isim>
+<bIsim>Yazılım Mühendisi</bIsim>
+<notOrt>90.5</notOrt>
+</student>
+<student>
+<kayitNo>3</kayitNo>
+<ogrNo>1111238058</ogrNo>
+<isim>Isim1</isim>
+<bIsim>Endüstri Mühendisi</bIsim>
+<notOrt>65.4</notOrt>
+</student>
+<student>
+<kayitNo>4</kayitNo>
+<ogrNo>1110675858</ogrNo>
+<isim>Isim2</isim>
+<bIsim>Makine Mühendisi</bIsim>
+<notOrt>78.9</notOrt>
+</student>
+<student>
+<kayitNo>5</kayitNo>
+<ogrNo>1110938458</ogrNo>
+<isim>Isım3</isim>
+<bIsim>Aklıma gelmedi Mühendisi</bIsim>
+<notOrt>21.3</notOrt>
+</student>

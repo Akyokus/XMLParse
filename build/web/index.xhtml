@@ -1,0 +1,49 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:h="http://java.sun.com/jsf/html"
+      xmlns:f="http://java.sun.com/jsf/core"  xmlns:p="http://primefaces.org/ui" xmlns:ui="http://xmlns.jcp.org/jsf/facelets">
+
+    <f:view contentType="text/html">
+        <h:head>
+            <f:facet name="first">
+                <meta content='text/html; charset=UTF-8' http-equiv="Content-Type"/>
+                <title>TT</title>
+            </f:facet>
+        </h:head>
+
+        <h:body>   
+           <h:form>
+           <ui:repeat value="#{parseXML.liste}" var="parse">
+               <h:panelGrid columns="3" style="width:40%" columnClasses="logo,detail" > 
+                <p:graphicImage value="#{parse.url}" width="200" height="200"/>
+                   <p:outputPanel>
+                       <h:panelGrid columns="2" cellpadding="7">
+                           
+                           <h:outputText value="Kayıt No:" style="font-weight: bold"/>
+                           <h:outputText value="#{parse.kayitNo}" />
+                    
+                           <h:outputText value="Öğrenci No:" style="font-weight: bold"/>
+                           <h:outputText value="#{parse.ogrNo}"/>
+                    
+                           <h:outputText value="İsim:" style="font-weight: bold"/>
+                           <h:outputText value="#{parse.isim}"/>
+
+                           <h:outputText value="Bölüm Adı:" style="font-weight: bold"/>
+                           <h:outputText value="#{parse.bIsim}"/>
+
+                           <h:outputText value="Not Ort:" style="font-weight: bold"/>
+                           <h:outputText value="#{parse.notOrt}"/>
+                            
+                       </h:panelGrid>
+                    </p:outputPanel>
+
+                </h:panelGrid>
+               <hr />
+           </ui:repeat>
+        </h:form>
+           
+        </h:body>
+
+    </f:view>
+</html>
+

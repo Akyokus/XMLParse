@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class>
+	<student baslik="ogrenci">
+		<url>https://lh3.googleusercontent.com/m7uqFDVdbyIDgTUxpc6A01MugkUoUk34swM6crDoC03I4eRqma-BhaNi7dmuQukb-nLZYiQMgpwXJM6INg</url>
+		<kayitNo>1</kayitNo>
+		<ogrNo>1110128058</ogrNo>
+		<isim>Mehmet AKYOKUS</isim>
+		<bIsim>Bilgisayar Mühendisi</bIsim>
+		<notOrt>80</notOrt>
+	</student>
+	<student baslik="ogrenci">
+		<url>http://1.bp.blogspot.com/-ozbsQVg_qjU/UAspDRvZwCI/AAAAAAAAB1M/c20oCfft4DY/s320/-%C3%A7izgi+film+karakterleri-aug59.gif</url>
+		<kayitNo>2</kayitNo>
+		<ogrNo>1110745758</ogrNo>
+		<isim>Ayşenur AKMAN</isim>
+		<bIsim>Bilgisayar Mühendisi</bIsim>
+		<notOrt>100</notOrt>
+	</student>
+	<student baslik="ogrenci">
+		<url>http://img707.imageshack.us/img707/5859/safinazx.jpg</url>
+		<kayitNo>3</kayitNo>
+		<ogrNo>1111238058</ogrNo>
+		<isim>Elif EŞİCİ</isim>
+		<bIsim>Bilgisayar Mühendisi</bIsim>
+		<notOrt>100</notOrt>
+	</student>
+	<student baslik="ogrenci">
+		<url>http://4.bp.blogspot.com/-hR7UQ9tts9s/UVRmZXt2KmI/AAAAAAAAGC4/LTbTr5WaGiw/s1600/Z%C3%A9+Colmeia+Hanna+Barbera.jpg</url>
+		<kayitNo>4</kayitNo>
+		<ogrNo>1110675858</ogrNo>
+		<isim>Yalçın YELPAZE</isim>
+		<bIsim>Bilgisayar Mühendisi</bIsim>
+		<notOrt>100</notOrt>
+	</student>
+	<student baslik="ogrenci">
+		<url>http://1.bp.blogspot.com/-fve_ySOfmqA/UAspOZCEl8I/AAAAAAAAB2Q/yzLNylZt9b0/s1600/%C3%A7izgi+film+karkterleri_goofy-disney-cartoon.gif</url>
+		<kayitNo>5</kayitNo>
+		<ogrNo>1110938458</ogrNo>
+		<isim>Mustafa Emre Yıldırım</isim>
+		<bIsim>Bilgisayar Mühendisi</bIsim>
+		<notOrt>100</notOrt>
+	</student>
+	<student baslik="ogrenci">
+		<url>https://nerdist.com/wp-content/uploads/2015/11/WinnieBear_FEAT.png</url>
+		<kayitNo>5</kayitNo>
+		<ogrNo>1110938458</ogrNo>
+		<isim>Berk Kardaş</isim>
+		<bIsim>Bilgisayar Mühendisi</bIsim>
+		<notOrt>100</notOrt>
+	</student>
+</class>
